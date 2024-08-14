@@ -1,4 +1,4 @@
-Tic-Tac-Toe Game README
+**Tic-Tac-Toe Game README**
 
 Overview
 This project is a simple implementation of a Tic-Tac-Toe game using HTML, CSS, and JavaScript. The game allows two players (Player X and Player O) to play against each other by clicking on boxes within a 3x3 grid. The game tracks turns, checks for a winner, and declares a draw if all boxes are filled without a winner.
